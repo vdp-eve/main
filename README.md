@@ -19,7 +19,7 @@
 
 **Github Live Link**
 
-- [Link to the project's live link']()
+- [Link to the project's live link']( https://vdp-eve.github.io/spring-coding-jam-project/)
 
 ### Overview
 
