@@ -1,0 +1,29 @@
+.followers {
+  right: 5px;
+  top: 5px;
+  height: calc(100% - 10px);
+  font: bold 20px Noto Sans;
+  line-height: 90%;
+}
+
+.follower__container {
+  width: 100%;
+  margin-top: 4px;
+  text-align: center;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+
+.follower-item {
+  -webkit-flex: 1 0 auto;
+  flex: 1 0 auto;
+}
+
+.follower_text {
+  color: #b1b1b1;
+  font-size: 16px;
+}
